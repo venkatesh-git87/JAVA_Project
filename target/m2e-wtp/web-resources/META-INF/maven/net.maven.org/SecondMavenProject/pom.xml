@@ -30,7 +30,7 @@
 	</dependencies>
 	<build>
 		<finalName>SecondMavenProject</finalName>
-		<plugins>
+		<!-- <plugins>
 			<plugin>
 				<groupId>org.apache.tomcat.maven</groupId>
 				<artifactId>tomcat7-maven-plugin</artifactId>
@@ -41,6 +41,6 @@
 					<path>/${project.build.finalName}</path>
 				</configuration>
 			</plugin>
-		</plugins>
+		</plugins>-->
 	</build>
 </project>
